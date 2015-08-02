@@ -1,1 +1,3 @@
 # php-snippet
+
+Koleksi snippet PHP, silakan dimanfaatkan...
